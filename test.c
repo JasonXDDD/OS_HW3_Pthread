@@ -28,7 +28,7 @@ void drawMap(int start_x, int start_y){
   setTextxy(start_x, start_y, "XXXXXXXXXXXXXXX");
   
 }
-
+ 
 
 void drawText(int x, int y, char c){  
 }
